@@ -1,0 +1,63 @@
+#: locale=es
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_1C1E6F34_0528_4970_415C_4772EAF98EF2.url = https://kirtistudios2019.wixsite.com/kirtistudios
+WebFrame_AEF8D8F2_BB8E_A489_41E3_6BC985526AAF.url = https://www.rakceramics.com/bangladesh/en-bd/company/
+WebFrame_AF7FD63C_BB75_EFF9_41BF_7412FFF8292D.url = https://www.rakceramics.com/bangladesh/en-bd/tiles/collections/rak-ceramics-tile-album/tiles/grey-23/slab-sophia-dc-6-109804/
+WebFrame_A8267974_BB7A_A589_41CB_8D2E3D271414.url = https://www.rakceramics.com/bangladesh/en-bd/tiles/collections/rak-ceramics-tile-album/tiles/grey-23/slab-sophia-dc-6-109804/
+WebFrame_A9D22918_BB75_E5B9_41DA_0393894641D2.url = https://www.rakceramics.com/bangladesh/en-bd/tiles/collections/rak-ceramics-tile-album/tiles/mix-48/elegant-slab-1211-109806/
+WebFrame_A9EFB80D_BB75_E398_41BE_29ECDDFBCDE4.url = https://www.rakceramics.com/bangladesh/en-bd/tiles/collections/rak-ceramics-tile-album/tiles/mix-48/elegant-slab-1216-109811/
+
+## Media
+
+### Title
+panorama_543289AC_5F17_864B_41C9_3ED8C6CFA8A1.label = 12 - Room 4
+
+## Right Click Menu
+
+### Text
+menuItem_1FA15741_052B_D910_4187_F745DF55BDD6.label = Created by KIRTI Studios
+
+## Skin
+
+### Button
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.pressedLabel = Amenities
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.label = Amenities
+Button_F01877F7_C7BF_4BBD_41BB_741602CF73DC_mobile.label = BACK
+Button_9E61C78C_BF74_CC6C_41D5_5413C0B6EFC7_mobile.label = Exterior Area
+Button_9E61578A_BF74_CC54_41D0_C54E5933CA42_mobile.label = Extra Rooms
+Button_CE80D835_E7BC_CB5A_41D0_A5FCED2CFD99.label = Others
+Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2.label = Others
+Button_CF4029E8_E7BC_CCCA_41E8_E109E1C94482.label = Others
+Button_F97842C9_E7EC_5CCD_41C6_FEA7926A2FEC.label = Others
+Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2_mobile.label = Others
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = PANORAMA LIST
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.pressedLabel = Reception
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.label = Reception
+Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69_mobile.label = Rooms
+
+### Image
+Image_4C9BFD81_5F1E_9E35_41BF_E0A342FF97C7.url = skin/Image_4C9BFD81_5F1E_9E35_41BF_E0A342FF97C7_en.png
+Image_CE81F82F_E7BC_CB46_41D5_23F0FC4489A2.url = skin/Image_CE81F82F_E7BC_CB46_41D5_23F0FC4489A2_en.png
+Image_CF4159E7_E7BC_CCC6_41D5_C3056D5A4F41.url = skin/Image_CF4159E7_E7BC_CCC6_41D5_C3056D5A4F41_en.png
+Image_F97B62C9_E7EC_5CCD_41E9_544D7D9A5BA8.url = skin/Image_F97B62C9_E7EC_5CCD_41E9_544D7D9A5BA8_en.png
+Image_FACCA184_E6AC_FD3A_41DD_DA3FE6927FB8.url = skin/Image_FACCA184_E6AC_FD3A_41DD_DA3FE6927FB8_en.png
+
+### Multiline Text
+HTMLText_DC319146_C473_208B_41B4_BDAD25BF866B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.97vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.97vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.62vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.62vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Montserrat';">COMPANY NAME</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">info@loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Montserrat';">COMPANY NAME</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Montserrat';">info@loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV></div>
+HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:10.28vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.28vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:6.56vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_DC317147_C473_2089_41E1_A2A60EF4B565.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:4.37vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.37vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = RAK Room 4 Test
